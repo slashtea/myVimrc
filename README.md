@@ -29,6 +29,7 @@
 !["Icons and theme"](https://github.com/slashtea/myVimrc/blob/master/images/icons.png) 
 
 #### Currently installed plugins are:
+- Plugin 'gmarik/Vundle.vim'
 - Plugin 'tmhedberg/SimpylFold'
 - Plugin 'vim-scripts/indentpython.vim'
 - Plugin 'morhetz/gruvbox'
@@ -46,5 +47,11 @@
 - Plugin 'ryanoasis/vim-devicons'
 - Plugin 'sheerun/vim-polyglot'
 - Plugin 'mattn/emmet-vim'
+- Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
+- Plugin 'kristijanhusak/vim-carbon-now-sh'
+- Plugin 'fatih/vim-go'
+- Plugin 'nsf/gocode'
+- Plugin 'Valloric/YouCompleteMe'
+
 
 
