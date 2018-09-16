@@ -9,7 +9,7 @@
 
 * run vim and **:PluginInstall**, vim will take care of the rest.
 
-## 2) Gotcha
+## 2) Miscellaneous
 
 * There's a dev icon plugin there for that you will have to use a patched font from **nerd-fonts**: https://github.com/ryanoasis/nerd-fonts#font-patcher, download one and install it. Then set it up.
 
@@ -23,6 +23,10 @@
 
 
 ## 3) Result
+
+!["Autocompletion for golang"](https://github.com/slashtea/myVimrc/blob/master/images/autocompletion.png) 
+
+!["Icons and theme"](https://github.com/slashtea/myVimrc/blob/master/images/icons.png) 
 
 #### Currently installed plugins are:
 - Plugin 'tmhedberg/SimpylFold'
